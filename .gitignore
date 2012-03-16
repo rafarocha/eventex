@@ -6,5 +6,4 @@ local
 Scripts
 .Python
 *.pyc
-
 .DS_Store*
